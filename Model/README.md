@@ -7,6 +7,6 @@
 
 ## Model Notebooks
 
-We ran our models using cTPUs on Google Colab. Our model pipeline is loosely based on Dharmendra Choudhary's [Medium post] (https://medium.com/@drcjudelhi/bert-fine-tuning-on-quora-question-pairs-b48277787285), which pulls heavily from the released [BERT github repo](https://github.com/google-research/bert).
+We ran our models using cTPUs on Google Colab. Our model pipeline is loosely based on Dharmendra Choudhary's [Medium post](https://medium.com/@drcjudelhi/bert-fine-tuning-on-quora-question-pairs-b48277787285), which pulls heavily from the released [BERT github repo](https://github.com/google-research/bert).
 
 [Colab Notebook](https://colab.research.google.com/drive/1MH3Kl2BU7M7N9oV96IuxFJW01IuEq1pE)
