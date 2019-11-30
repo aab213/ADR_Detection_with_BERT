@@ -11,6 +11,6 @@ The pipeline takes raw tweets and performs the following functions:
 * Implements DrugNorm drug normalizer to convert brand names of drugs to generic names.
 
 ## Required files
-Prior to running, you will need to download the tetragram.binary in the N-gram-language-models [file](https://data.mendeley.com/datasets/dwr4xn8kcv/3) and the HealthVec [model] (https://github.com/dartrevan/ChemTextMining/tree/master/word2vec).
+Prior to running, you will need to download the tetragram.binary in the N-gram-language-models [file](https://data.mendeley.com/datasets/dwr4xn8kcv/3) and the HealthVec [model](https://github.com/dartrevan/ChemTextMining/tree/master/word2vec).
 
 You will also need to follow the steps in Dirkson's DrugNorm [repo](https://github.com/AnneDirkson/DrugNorm) to get access to the UMLS RxNorm dataset and generate the DrugNorm dictionary.
